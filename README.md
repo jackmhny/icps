@@ -1,4 +1,6 @@
-# balancechem
+# ICPS
 
-## Simple Flask App to balance chemical equations
+Apps
+--
+* Chemical Equation Balancer
 
